@@ -36,7 +36,7 @@ Curious about breaking things, figuring out why they broke, and building them be
 
 ## 📁 Projects I've Built
 
-**FRI-D.A.Y — AI Desktop Assistant**
+**FRI-D.A.Y — AI Desktop Assistant**/n
 An AI-powered desktop assistant with speech recognition, wake-word activation, and automation features. Built with Python, OpenCV, Pygame, and Speech Recognition.
 
 **Milk Way Dairy Hub**
