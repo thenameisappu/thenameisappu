@@ -1,253 +1,65 @@
-# 👋 Hi, I'm Appu K R
-
-### 💻 Software Developer | 🐍 Python Developer | 🤖 AI & Machine Learning Enthusiast
-
-I am a **Master of Computer Applications (MCA) graduate/candidate** with a strong interest in **backend development, Artificial Intelligence, Machine Learning, and software engineering**.
-
-I enjoy building applications that solve real-world problems, from scalable backend systems and APIs to AI-powered applications and intelligent automation tools.
+# Hi, I'm Appu K R
 
 ---
 
-## 🚀 About Me
+MCA graduate interested in backend development, AI applications, and building software that solves real problems.
 
-* 🎓 MCA with a specialization in **Security Essentials**
-* 💻 Interested in Backend Development and Software Engineering
-* 🤖 Passionate about Artificial Intelligence and Machine Learning
-* 🧠 Exploring Computer Vision and AI-powered applications
-* 🗄️ Experienced with SQL and database-driven applications
-* 🔐 Interested in Cybersecurity and secure software development
-* 🌱 Continuously learning and building new projects
+I enjoy working with APIs, databases, application logic, and understanding how things work behind the screen.
+
+Curious about breaking things, figuring out why they broke, and building them better.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What I Work With
 
-### 💻 Programming Languages
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
-</p>
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🌐 Backend & Web Development
+**Backend & Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,html,css,react,nodejs" />
-</p>
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Databases
+**Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### 🤖 AI, Machine Learning & Data
-
-* Machine Learning
-* Scikit-learn
-* Pandas
-* NumPy
-* OpenCV
-* CNN
-* Computer Vision
-
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-</p>
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# 💼 Experience
+## 📁 Projects I've Built
 
-## 🧪 AI & Product Engineering Intern
+**FRI-D.A.Y — AI Desktop Assistant**
 
-**FlaskAI**
-📅 February 2026 – May 2026
+An AI-powered desktop assistant with speech recognition, wake-word activation, and automation features. Built with Python, OpenCV, Pygame, and Speech Recognition.
 
-* Developed AI-powered molecular and chemical compound search solutions.
-* Built backend APIs using **Python, Flask, RDKit, and PostgreSQL**.
-* Implemented exact, substructure, and similarity-based molecular searches.
-* Worked on scalable data-processing workflows for large chemical datasets.
-* Optimized database query pipelines for improved performance.
-* Collaborated with the engineering team on AI-driven scientific search applications.
+**Milk Way Dairy Hub**
 
----
+A multi-role dairy management system for Admin, Seller, and Customer operations. Built with React, TypeScript, Node.js, and MySQL.
 
-# 🚀 Featured Projects
+**Diabetic Prediction Using Machine Learning**
 
-## 🤖 FRI-D.A.Y
-
-### Friendly Responsive Intelligent Digital Assistant for You
-
-**Technologies:** Python | OpenCV | Pygame | Speech Recognition
-
-An AI-powered desktop assistant designed to automate everyday productivity tasks through voice interaction.
-
-### ✨ Features
-
-* 🎙️ Speech recognition
-* 🔊 Wake-word activation
-* ⚡ Real-time command execution
-* 📁 File search automation
-* 🎵 Media control
-* 📝 Note management
-* ⏱️ Timers
-* 📶 Wi-Fi management
-* 💬 WhatsApp messaging
-* 🖥️ Interactive UI using OpenCV and Pygame
-* 📜 Real-time interaction logging
-* 🧩 Modular architecture for easy feature expansion
+A machine learning project using Decision Tree, Random Forest, and SVM algorithms for predictive analysis.
 
 ---
 
-## 🥛 Milk Way Dairy Hub
+## 🎯 Where I'm Headed
 
-### Multi-Role Dairy Management System
-
-**Technologies:** React | TypeScript | Node.js | MySQL
-
-A management system designed to streamline dairy business operations.
-
-### 👥 User Roles
-
-* 👨‍💼 Admin
-* 🧑‍💼 Seller
-* 🛒 Customer
-
-### ✨ Features
-
-* 🥛 Milk collection management
-* 💰 Pricing management
-* 📦 Inventory management
-* 🛍️ Order processing
-* 💳 Transaction tracking
-* 🚚 Delivery management
-* 📊 Dedicated dashboards for different user roles
-* 🔄 CRUD operations for users, products, and transactions
+Looking for opportunities to grow as a software developer and work on real-world backend systems, APIs, databases, and AI-powered applications.
 
 ---
 
-## 🧠 Pregnant Women Diabetic Prediction
-
-**Technologies:** Python | Scikit-learn | Machine Learning
-
-A machine learning project focused on diabetes prediction using supervised learning algorithms.
-
-### 🤖 Algorithms Explored
-
-* Decision Tree
-* Random Forest
-* Support Vector Machine
-
-### 📊 Key Learning Areas
-
-* Data preprocessing
-* Predictive analytics
-* Machine learning workflows
-* Supervised learning
-* Unsupervised learning
-* Dataset pattern analysis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appu-k-r-2819071b8/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[krappu203@gmail.com])
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/thenameisappu)
 
 ---
 
-# 📚 Education
-
-## 🎓 Master of Computer Applications (MCA)
-
-**PES University**
-
-**Specialization:** Security Essentials
-
-Relevant areas of study:
-
-* Data Structures & Algorithms
-* Database Management Systems
-* Artificial Intelligence
-* Machine Learning
-* Data Engineering
-* Cyber Security
-* Speech Recognition
-* Probability & Statistics
-
----
-
-## 🎓 Bachelor of Computer Applications (BCA)
-
-**Bapuji Institute of Hi-Tech Education**
-
-Relevant areas of study:
-
-* Database Management Systems
-* Computer Networks
-* Operating Systems
-* Web Technologies
-* C / C++ Programming
-
----
-
-# 🔐 Areas of Interest
-
-```text
-Backend Development
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Data Engineering
-Database Systems
-Cybersecurity
-Software Engineering
-```
-
----
-
-# 📜 Certifications
-
-* 🔐 Security Essentials Specialization
-* 🐍 Python – NumPy and Pandas
-* 🤖 Python – Data Science and Machine Learning
-* ⚙️ Python – Scripting for System Administration
-* 🛡️ Cyber Security Basics
-* 🔒 Ethical Hacking Basics
-* ☁️ Cloud Computing Basics
-
----
-
-# 🌱 Currently Exploring
-
-```text
-🚀 Scalable Backend Systems
-🤖 AI-Powered Applications
-🧠 Advanced Machine Learning
-🔐 Secure Software Development
-🐳 Docker & Deployment
-☁️ Cloud Technologies
-```
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/appu-k-r-2819071b8">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:krappu203@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/thenameisappu">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-## ⚡ A Little About My Development Journey
-
-> I enjoy exploring how technology can turn ideas into practical solutions. Whether it's building backend APIs, experimenting with machine learning models, developing AI assistants, or designing database-driven applications, I'm always interested in learning how things work beneath the surface.
-
-### 🚀 *Build. Learn. Improve. Repeat.*
+*Always learning and building.*
