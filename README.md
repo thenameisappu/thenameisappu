@@ -2,10 +2,8 @@
 
 ---
 
-MCA graduate interested in backend development, AI applications, and building software that solves real problems.
-
-I enjoy working with APIs, databases, application logic, and understanding how things work behind the screen.
-
+MCA graduate interested in backend development, AI applications, and building software that solves real problems.<br>
+I enjoy working with APIs, databases, application logic, and understanding how things work behind the screen.<br>
 Curious about breaking things, figuring out why they broke, and building them better.
 
 ---
