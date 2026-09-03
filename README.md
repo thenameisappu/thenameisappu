@@ -36,13 +36,13 @@ Curious about breaking things, figuring out why they broke, and building them be
 
 ## 📁 Projects I've Built
 
-**FRI-D.A.Y — AI Desktop Assistant**/n
+**FRI-D.A.Y — AI Desktop Assistant**<br>
 An AI-powered desktop assistant with speech recognition, wake-word activation, and automation features. Built with Python, OpenCV, Pygame, and Speech Recognition.
 
-**Milk Way Dairy Hub**
+**Milk Way Dairy Hub**<br>
 A multi-role dairy management system for Admin, Seller, and Customer operations. Built with React, TypeScript, Node.js, and MySQL.
 
-**Diabetic Prediction Using Machine Learning**
+**Diabetic Prediction Using Machine Learning**<br>
 A machine learning project using Decision Tree, Random Forest, and SVM algorithms for predictive analysis.
 
 ---
