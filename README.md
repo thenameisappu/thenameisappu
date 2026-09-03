@@ -251,4 +251,3 @@ Software Engineering
 > I enjoy exploring how technology can turn ideas into practical solutions. Whether it's building backend APIs, experimenting with machine learning models, developing AI assistants, or designing database-driven applications, I'm always interested in learning how things work beneath the surface.
 
 ### 🚀 *Build. Learn. Improve. Repeat.*
-"# AppuKR" 
