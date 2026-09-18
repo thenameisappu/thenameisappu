@@ -34,6 +34,9 @@ Curious about breaking things, figuring out why they broke, and building them be
 
 ## 📁 Projects I've Built
 
+**Network Intrusion Detection System**<br>
+A cybersecurity system for monitoring network traffic and detecting suspicious activities and potential intrusions using real-time threat analysis.
+
 **FRI-D.A.Y — AI Desktop Assistant**<br>
 An AI-powered desktop assistant with speech recognition, wake-word activation, and automation features. Built with Python, OpenCV, Pygame, and Speech Recognition.
 
